@@ -1,0 +1,30 @@
+table,th,td{
+    border:2px solid black;
+    text-align: center;
+}
+
+table{
+    width: 70% ;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+}
+ 
+th{
+    font-family: monospace;
+    font-size: 25px;
+    
+    background-color: cadetblue;
+}   
+
+h1{
+    text-align: center;
+    
+}
+    
+    
+    
+
+

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' ,sans-serif;
+    
+}
+
+.contanier{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin:40px 20px 0px 20px;
+}
+
+.contanier.heading{
+    
+}
+
+.contanier.heading h3{
+    font-size: 3em;
+    font-weight: bolder;
+    border-bottom: 3px solid #222;
+}
+
+.contanier.heading h3 span {
+    font-weight: 100;
+    } 
+    
